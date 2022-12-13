@@ -12,7 +12,7 @@
   
 <div align="left">
   <a href="https://github.com/yagxyz">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagxyz&layout=compact&count_private=true&theme=dark"/>    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagxyz&layout=compact&count_private=true&theme=dark"/>    
 </div>
   
 <a> Under construction... </a>\
